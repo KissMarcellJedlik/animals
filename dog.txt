@@ -1,3 +1,4 @@
 magyar kutyák:
 -tacskó
 -vizsla 
+-puli
